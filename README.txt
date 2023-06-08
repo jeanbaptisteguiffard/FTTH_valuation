@@ -1,0 +1,1 @@
+Repository for the study : "Valuing the Virtual: The Impact of Fiber to the Home (FTTH) on Property Prices in France" (2023) by Jean-Baptiste Guiffard
